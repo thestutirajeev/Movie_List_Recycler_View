@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">affirmations</string>
+    <string name="movie1">Bahubali 2</string>
+    <string name="movie2">K.G.F</string>
+    <string name="movie3">Dangal</string>
+    <string name="movie4">Sanju</string>
+    <string name="movie5">PK</string>
+    <string name="movie6">Tiger Zinda hai</string>
+    <string name="movie7">War</string>
+    <string name="movie8">Padmavat</string>
+    <string name="movie9">Sultan</string>
+    <string name="movie10">Dhoom 3</string>
+    <string name="movie11">Bahubali 2</string>
+    <string name="movie12">K.G.F</string>
+    <string name="movie13">Dangal</string>
+    <string name="movie14">Sanju</string>
+    <string name="movie15">PK</string>
+    <string name="movie16">Tiger Zinda hai</string>
+    <string name="movie17">War</string>
+    <string name="movie18">Padmavat</string>
+    <string name="movie19">Sultan</string>
+    <string name="movie20">Dhoom 3</string>
+</resources>
